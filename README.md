@@ -3,11 +3,13 @@ This repository contains:
 1) Python models for hydrogen-integrated composite renewable energy systems optimization.
 
 Overview
+
 The Component Oriented Modeling and Optimization open-source package (COMANDO) and Gurobi were utilized to model the various components and solve the mathematically formulated problems respectively.
 
 2) The modeling framework and simulation results for a study evaluating the potential for transporting green hydrogen from West Africa countries to Europe via existing and proposed natural gas pipeline corridors.
 
 Overview
+
 The project investigates hydrogen transport along three major pipeline systems:
 
 ⦁	Nigeria-Morocco Gas Pipeline (NMGP)
